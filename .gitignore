@@ -1,1 +1,8 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
 __pycache__/
+
+# Ignore Firebase credentials
+feysu-79c17-firebase-adminsdk-fbsvc-92c7e332ed.json
